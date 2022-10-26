@@ -1,4 +1,23 @@
- <p> <br />
+<!DOCTYPE html>
+<html>
+<head>
+ 
+<link rel="stylesheet"   href="style.css" >
+  
+</head>
+   
+<body>
+
+<div id="NotAllowedme">
+ <div id="jd-main"> 
+ <div id="jd-content-1">
+ <div id="jd-content-2"> 
+ <div class="jd-app"> 
+ <div class="jd-container"> 
+ <div class="jd-aside"> 
+ <div class="jd-box-avatar"> <img src="src" /> </div> 
+ <h2>igif</h2> ID 61173 
+ <p> <br /><p> <br />
  <br />
  <span style="color:#0057FF"> </span></p> 
  </div> 
